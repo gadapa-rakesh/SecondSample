@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SecondSample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SecondSample.war">
+      <element id="artifact" artifact-name="SecondSample:war exploded" />
+    </root>
+  </artifact>
+</component>
